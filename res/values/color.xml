@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btnOneColor">#551A8B</color>
+    <color name="btnTwoColor">#FF3E96</color>
+    <color name="btnThreeColor">#FFFF00</color>
+    <color name="btnFourColor">#D1EEEE</color>
+    <color name="btnFiveColor">#436EEE</color>
+    <color name="btnSixColor">#C0FF00</color>
+    <color name="btnSevenColor">#FFD700</color>
+    <color name="btnEightColor">#FF8C20</color>
+    <color name="backgroundColor">#1E1E1E</color>
+    <color name="textColor">#63B8FF</color>
+</resources>
